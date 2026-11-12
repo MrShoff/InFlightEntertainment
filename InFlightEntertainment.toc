@@ -5,6 +5,7 @@
 ## Version: @project-version@
 ## SavedVariables: InFlightEntertainmentDB
 ## IconTexture: Interface\Icons\Ability_Mount_Gryphon_01
+## X-Curse-Project-ID: 1800677
 
 Data\ChessPuzzles.lua
 Data\WordleWords.lua
