@@ -3,4 +3,7 @@ package-as: InFlightEntertainment
 ignore:
   - .github
   - .gitignore
+  - .gitattributes
   - .pkgmeta
+  - tests
+  - tools
