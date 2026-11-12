@@ -1,0 +1,17 @@
+## Interface: 16001, 120100, 120105, 120107
+## Title: In-Flight Entertainment
+## Notes: Chess puzzles, Wordle and Connections to pass the time on long flights. Type /ife to open.
+## Author: beecherhg
+## Version: @project-version@
+## SavedVariables: InFlightEntertainmentDB
+## IconTexture: Interface\Icons\Ability_Mount_Gryphon_01
+
+Data\ChessPuzzles.lua
+Data\WordleWords.lua
+Data\ConnectionsPuzzles.lua
+
+Core.lua
+Chess\ChessEngine.lua
+Chess\ChessUI.lua
+Wordle.lua
+Connections.lua

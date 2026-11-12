@@ -1,0 +1,6 @@
+package-as: InFlightEntertainment
+
+ignore:
+  - .github
+  - .gitignore
+  - .pkgmeta
